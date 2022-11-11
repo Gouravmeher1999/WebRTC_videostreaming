@@ -1,0 +1,48 @@
+Date : 2022-11-09 17:19:05
+Directory : c:\Users\goura\Documents\webRTC
+Total : 14 files,  16805 codes, 1 comments, 72 blanks, all 16878 lines
+
+Languages
++------------------+------------+------------+------------+------------+------------+
+| language         | files      | code       | comment    | blank      | total      |
++------------------+------------+------------+------------+------------+------------+
+| JSON             |          3 |     16,387 |          0 |          3 |     16,390 |
+| JavaScript       |          5 |        247 |          1 |         48 |        296 |
+| JavaScript React |          3 |        141 |          0 |         17 |        158 |
+| CSS              |          1 |         15 |          0 |          2 |         17 |
+| HTML             |          1 |         14 |          0 |          1 |         15 |
+| YAML             |          1 |          1 |          0 |          1 |          2 |
++------------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                    | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                       |         14 |     16,805 |          1 |         72 |     16,878 |
+| .github                                                                 |          1 |          1 |          0 |          1 |          2 |
+| client                                                                  |         11 |     16,757 |          1 |         60 |     16,818 |
+| client\public                                                           |          1 |         14 |          0 |          1 |         15 |
+| client\src                                                              |          7 |        290 |          1 |         56 |        347 |
+| client\src\components                                                   |          3 |        141 |          0 |         17 |        158 |
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| filename                                                                | language         | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| c:\Users\goura\Documents\webRTC\.github\FUNDING.yml                     | YAML             |          1 |          0 |          1 |          2 |
+| c:\Users\goura\Documents\webRTC\client\.eslintrc.js                     | JavaScript       |         86 |          0 |          1 |         87 |
+| c:\Users\goura\Documents\webRTC\client\package-lock.json                | JSON             |     16,312 |          0 |          1 |     16,313 |
+| c:\Users\goura\Documents\webRTC\client\package.json                     | JSON             |         55 |          0 |          1 |         56 |
+| c:\Users\goura\Documents\webRTC\client\public\index.html                | HTML             |         14 |          0 |          1 |         15 |
+| c:\Users\goura\Documents\webRTC\client\src\App.js                       | JavaScript       |         45 |          0 |          7 |         52 |
+| c:\Users\goura\Documents\webRTC\client\src\Context.js                   | JavaScript       |         78 |          1 |         26 |        105 |
+| c:\Users\goura\Documents\webRTC\client\src\components\Notifications.jsx | JavaScript React |         19 |          0 |          5 |         24 |
+| c:\Users\goura\Documents\webRTC\client\src\components\Sidebar.jsx       | JavaScript React |         75 |          0 |          6 |         81 |
+| c:\Users\goura\Documents\webRTC\client\src\components\VideoPlayer.jsx   | JavaScript React |         47 |          0 |          6 |         53 |
+| c:\Users\goura\Documents\webRTC\client\src\index.js                     | JavaScript       |         11 |          0 |          4 |         15 |
+| c:\Users\goura\Documents\webRTC\client\src\styles.css                   | CSS              |         15 |          0 |          2 |         17 |
+| c:\Users\goura\Documents\webRTC\index.js                                | JavaScript       |         27 |          0 |         10 |         37 |
+| c:\Users\goura\Documents\webRTC\package.json                            | JSON             |         20 |          0 |          1 |         21 |
+| Total                                                                   |                  |     16,805 |          1 |         72 |     16,878 |
++-------------------------------------------------------------------------+------------------+------------+------------+------------+------------+

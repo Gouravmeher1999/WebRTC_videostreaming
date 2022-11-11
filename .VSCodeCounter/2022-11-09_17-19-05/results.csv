@@ -1,0 +1,16 @@
+"filename", "language", "JSON", "JavaScript", "CSS", "HTML", "YAML", "JavaScript React", "comment", "blank", "total"
+"c:\Users\goura\Documents\webRTC\.github\FUNDING.yml", "YAML", 0, 0, 0, 0, 1, 0, 0, 1, 2
+"c:\Users\goura\Documents\webRTC\client\.eslintrc.js", "JavaScript", 0, 86, 0, 0, 0, 0, 0, 1, 87
+"c:\Users\goura\Documents\webRTC\client\package-lock.json", "JSON", 16312, 0, 0, 0, 0, 0, 0, 1, 16313
+"c:\Users\goura\Documents\webRTC\client\package.json", "JSON", 55, 0, 0, 0, 0, 0, 0, 1, 56
+"c:\Users\goura\Documents\webRTC\client\public\index.html", "HTML", 0, 0, 0, 14, 0, 0, 0, 1, 15
+"c:\Users\goura\Documents\webRTC\client\src\App.js", "JavaScript", 0, 45, 0, 0, 0, 0, 0, 7, 52
+"c:\Users\goura\Documents\webRTC\client\src\Context.js", "JavaScript", 0, 78, 0, 0, 0, 0, 1, 26, 105
+"c:\Users\goura\Documents\webRTC\client\src\components\Notifications.jsx", "JavaScript React", 0, 0, 0, 0, 0, 19, 0, 5, 24
+"c:\Users\goura\Documents\webRTC\client\src\components\Sidebar.jsx", "JavaScript React", 0, 0, 0, 0, 0, 75, 0, 6, 81
+"c:\Users\goura\Documents\webRTC\client\src\components\VideoPlayer.jsx", "JavaScript React", 0, 0, 0, 0, 0, 47, 0, 6, 53
+"c:\Users\goura\Documents\webRTC\client\src\index.js", "JavaScript", 0, 11, 0, 0, 0, 0, 0, 4, 15
+"c:\Users\goura\Documents\webRTC\client\src\styles.css", "CSS", 0, 0, 15, 0, 0, 0, 0, 2, 17
+"c:\Users\goura\Documents\webRTC\index.js", "JavaScript", 0, 27, 0, 0, 0, 0, 0, 10, 37
+"c:\Users\goura\Documents\webRTC\package.json", "JSON", 20, 0, 0, 0, 0, 0, 0, 1, 21
+"Total", "-", 16387, 247, 15, 14, 1, 141, 1, 72, 16878
