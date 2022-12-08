@@ -6,20 +6,24 @@ const SocketContext = createContext();
 
 const socket = io('http://localhost:5000');
 // const socket = io('https://warm-wildwood-81069.herokuapp.com');
+// const pc = new RTCPeerConnection();
 
 // const tcvr = pc.getTransceivers()[0];
-// const codecs = RTCRtpReceiver.getCapabilities('video').codecs;
-// const h264_codecs = [];
+// // const { codecs } = RTCRtpReceiver.getCapabilities('video').codecs.some(codec => codec.mimeType === 'video/h264');
+// // const H264Codecs = [];
+// // tcvr.setCodecPreferences = RTCRtpReceiver.getCapabilities('video').codecs.some(codec => codec.mimeType === 'video/h264');
+
+// // console.log(codecs.length);
 // // iterate over supported codecs and pull out the codecs we want
-// for (let i = 0; i < codecs.length; i += 1) {
-//   if (codecs[i].mimeType === 'video/h264') {
-//     h264_codecs.push(codecs[i]);
-//   }
-// }
-// // currently not all browsers support setCodecPreferences
-// if (tcvr.setCodecPreferences !== undefined) {
-//   tcvr.setCodecPreferences(h264_codecs);
-// }
+// // for (let i = 0; i < codecs.length; i += 1) {
+// //   if (codecs[i].mimeType === 'video/h264') {
+// //     H264Codecs.push(codecs[i]);
+// //   }
+// // }
+// // // currently not all browsers support setCodecPreferences
+// // if (tcvr.setCodecPreferences !== undefined) {
+// //   tcvr.setCodecPreferences(H264Codecs);
+// // }
 
 const ContextProvider = ({ children }) => {
   const [callAccepted, setCallAccepted] = useState(false);
